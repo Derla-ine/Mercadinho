@@ -23,6 +23,14 @@ Criar um mini-sistema analítico para entender vendas, faturamento e comportamen
 
 # 🗂️ <span style="color:#3498DB;">Modelagem do Banco de Dados</span>
 
-A estrutura segue boa prática de normalização, incluindo tabelas auxiliares e relacionamentos fortes.
+A estrutura segue boa prática de normalização, incluindo tabelas auxiliares e relacionamentos fortes
+
+
+
+  **MODELO FÍSICO**
+
+<img width="773" height="489" alt="Captura de Tela (22)" src="https://github.com/user-attachments/assets/01d2e99f-7f0e-4441-82c4-8fa2e05b5a20" />\
+      **MODELO FÍSICO**
+
 
 
