@@ -47,10 +47,41 @@ A estrutura segue boa prática de normalização, incluindo tabelas auxiliares e
 
 ✔️MySQL Workbench
 
-✔️Power BI Desktop
+✔️P26ower BI Desktop
 
 ✔️SQL (DDL + DML)
 
 # 🎨 <span style="color:#8E44AD;">Dashboard criado</span>
 
+<img width="882" height="505" alt="Captura de Tela (24)" src="https://github.com/user-attachments/assets/61865c9e-1ea0-46a6-a433-aa1af68a8c80" />
 
+Esse foi o Dashboard que criamos, nele conseguimos interagir e ver dados como:
+
+✔️ Qual foi o item mais vendido?
+    
+    R: Leite
+
+✔️ Qual o faturamento da loja?
+   
+    R: R$ 2.600,00 
+
+✔️ Qual o ticket médio ?
+    
+    R: R$ 26,78
+
+✔️ Qual o meio de pagamento mais utilizado?
+    
+    R: PIX
+
+✔️ Também dá para interagir e ver quanto cada cliente fiel gastou no mercadinho. 
+
+
+# Considerações finais
+Foi um projeto bem interessante de ser feito, nos desafiou de diversas maneiras. 
+Mesmo o mercadinho não estando nos melhores dias, apresentamos os possiveis resultados ao dono. Ele ficou feliz em saber que hoje temos mais ferramentas para fazer um controle específico do que pode ou não ser um problema. Também pontuou que isso deveria ser disseminado para mais pequenos comercios, pois são eles que sofrem o inicio de crescer. 
+Por fim, para nós, a dupla, foi desafiador e empolgante ir explorando as ferramentas e possibilidades de oportunidades para novos negócios. 
+
+## 🙋‍♀️ <span style="color:#16A085;">Autores</span>
+
+### Derlaine Ernesto Braga
+### Victor Hugo Teixeira Quiodato 
