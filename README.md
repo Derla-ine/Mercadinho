@@ -83,5 +83,5 @@ Por fim, para nós, a dupla, foi desafiador e empolgante ir explorando as ferram
 
 ## 🙋‍♀️ <span style="color:#16A085;">Autores</span>
 
-### Derlaine Ernesto Braga
-### Victor Hugo Teixeira Quiodeto 
+### Derlaine Ernesto Braga, RA: 25002273
+### Victor Hugo Teixeira Quiodeto, RA: 25002427
